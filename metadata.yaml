@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5506'
     url: http://www.gutenberg.org/2009/agents/5506
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14410#Gawayne-and-the-Green-Knight--13-A-Fairy-Tale
 gutenberg_issued: '2004-12-21'
 gutenberg_type: Text
 identifiers:
